@@ -1,7 +1,6 @@
 
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './pages/Home'
 import Rings from './component/HomePage/Rings'
 import Earrings from './component/HomePage/Earrings'
 import Braceletes_Bangles from './component/HomePage/Braceletes_Bangles'
